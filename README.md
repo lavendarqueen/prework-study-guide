@@ -6,13 +6,13 @@
 
 ## Motivation and Inspiration for Completion
 
--I was motivated by a desire to learn coding in the interest of pursuing a change in career path.
+-I was motivated to take the coding bootcamp offered by University of Denver and thus create the Prework Study Guide by a desire to learn coding in the interest of pursuing a change in career path.
 
 -I built this project in order to learn basic coding and as a means of taking and organizing my notes for further study.
 
 -The study guide provides a way of memorializing the information learned in the various topics for quick reference.
 
--I learned how to create, add, and upload files, create feature branches to avoid data loss using git bash, basic html, css, and JavaScript coding, and how to sync files using GitHub.
+-I learned how to create, add, and upload files, create feature branches to avoid data loss using git, basic html, css, and JavaScript coding, and how to sync files using GitHub. I also learned how to research issues on various web pages.
 
 ## Table of Contents (Optional)
 
@@ -31,9 +31,9 @@ Create directories in Git and add feature branches for version control. Code htm
 
 -For use as a means of storing notes for further study, the user adds lines of code with their notes in the various notes sections.
 
--To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+-Please see screenshot of Prework Study Guide in process
 
-![alt text](assets/images/screenshot.png)
+![Prework-Study-Guide Screenshot](assets/images/screenshot.png)
 
 ## Credits
 
@@ -74,24 +74,3 @@ growth-mindset
 ## License
 
 -Please refer to the license referenced in the Prework-Study-Guide repository.
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
--Go the extra mile and write tests for your application. Then provide examples on how to run them here.
