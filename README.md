@@ -33,7 +33,7 @@ Create directories in Git and add feature branches for version control. Code htm
 
 -Please see screenshot of Prework Study Guide in process
 
-![Prework-Study-Guide](https://github.com/lavendarqueen/screenshot.png)
+![Prework-Study-Guide Screenshot](https://raw.githubusercontent.com/lavendarqueen/prework-study-guide/main/assets/screenshot.png)
 
 ## Credits
 
